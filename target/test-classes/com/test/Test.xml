@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite>
+	<test>
+		<classes>
+			<class>
+				<methods>
+					<include></include>
+					<exclude></exclude>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

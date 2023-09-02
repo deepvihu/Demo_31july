@@ -7,6 +7,7 @@
       <class name="com.test.FirstTestNG"/>
       <class name="com.test.SwagDemo"/>
       <class name="com.test.SimpleTest"/>
+<class name="com.test.secondTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
